@@ -15,7 +15,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       
       // Send email notification (this is a mock implementation)
       await sendEmail({
-        to: "dhruv.bompilwar@example.com",
+        to: "bompilwardhruv@gmail.com",
         subject: `New Contact Form: ${contactData.subject}`,
         body: `
           Name: ${contactData.name}

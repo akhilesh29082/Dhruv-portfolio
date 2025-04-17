@@ -147,8 +147,8 @@ export const personalInfo = {
     "Web Developer",
     "Learning App Creator"
   ],
-  email: "dhruv.bompilwar@example.com",
-  phone: "+91 98765 43210",
+  email: "bompilwardhruv@gmail.com",
+  phone: "+91 7776965101",
   location: "Pune, Maharashtra, India",
   description: "A passionate Computer Engineering student pursuing dual degrees from MITAOE and IIT Madras, specializing in web development and data science."
 };
